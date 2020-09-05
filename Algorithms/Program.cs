@@ -6,8 +6,9 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            Huffman.Handling.Encode("ABBBBCCDDDE");
-            //Console.WriteLine(SumWithoutOperators.Sum(7, 5));
+            Fibonacci.Draw(30);
+            // Huffman.Handling.Encode("abracadabra");
+            // Console.WriteLine(SumWithoutOperators.Sum(7, 5));
         }
     }
 }
